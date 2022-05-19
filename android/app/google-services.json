@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952779115985",
+    "project_id": "tiktok-course",
+    "storage_bucket": "tiktok-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952779115985:android:6e91212f2754c61ce6a4f0",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.firebase_crud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952779115985-fmptjj6okqlt4vekgbrfi515vn07ln6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAnAPx62f4z0vjDFzpdVKGfrNfvAGIbUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952779115985-fmptjj6okqlt4vekgbrfi515vn07ln6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
